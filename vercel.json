@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://paste.842166.xyz/$1"}
+      {"src": "/(.*)","dest": "https://pastes.842166.xyz/$1"}
     ]
 }
